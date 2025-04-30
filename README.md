@@ -1,3 +1,6 @@
+# Project Title
+[Open in Colab](https://colab.research.google.com/drive/1iu1jhUGcgphHoaJDeor0EA58VeenZKY5?usp=sharing)
+
 # Customer Shopping Data Analysis
 This project explores customer shopping behavior using transactional and demographic data. It applies data science techniques to get insights, segment customers and build predictive models for spending behaviour.
 
