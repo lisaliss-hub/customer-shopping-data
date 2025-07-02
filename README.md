@@ -5,7 +5,7 @@
 This project explores customer shopping behavior using transactional and demographic data. It applies data science techniques to get insights, segment customers and build predictive models for spending behaviour.
 
 ## **Project Overview**
-- Clean analyze acustomer shopping dataset
+- Clean and analyze a customer shopping dataset
 - Perform feature engineering and handle outliers
 - Use RFM analysis for loyalty segmentation
 - Apply K-Means clustering for customer segmentation
